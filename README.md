@@ -91,7 +91,7 @@ Green-type kernels are built from these, for example
 $$
 G(z,a)
 =\frac{1}{2\pi i}
-\log\frac{\omega_\alpha(z,a)}{|a|\,\omega_\alpha(z,1/\overline{a})}.
+\log\frac{\omega_\alpha(z,a)}{|a|\omega_\alpha(z,1/\overline{a})}.
 $$
 
 In the harmonic / low-Ericksen regime, the 2-D nematic director angle is a harmonic
